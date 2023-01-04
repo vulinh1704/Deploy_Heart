@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vulinh1704/Deploy_Heart/static/css/main.400fb6f5.css",
+    "main.js": "/vulinh1704/Deploy_Heart/static/js/main.bd329472.js",
+    "static/js/787.08e512b5.chunk.js": "/vulinh1704/Deploy_Heart/static/js/787.08e512b5.chunk.js",
+    "index.html": "/vulinh1704/Deploy_Heart/index.html",
+    "main.400fb6f5.css.map": "/vulinh1704/Deploy_Heart/static/css/main.400fb6f5.css.map",
+    "main.bd329472.js.map": "/vulinh1704/Deploy_Heart/static/js/main.bd329472.js.map",
+    "787.08e512b5.chunk.js.map": "/vulinh1704/Deploy_Heart/static/js/787.08e512b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.400fb6f5.css",
+    "static/js/main.bd329472.js"
+  ]
+}
