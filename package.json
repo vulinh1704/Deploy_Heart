@@ -1,4 +1,5 @@
 {
+  "homepage": "https://vulinh1704.github.io/Deploy_Heart",
   "name": "deploy-me",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +14,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
